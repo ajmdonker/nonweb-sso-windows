@@ -7,3 +7,5 @@ This project has two parts:
 
 Click on the links to open the documentation for a part.
 The parts are separated into the csharp - winjs directories in this repository.
+
+For background information and investigation into the best practices that were implemented in this SDK, see [this page](https://github.com/SURFnet/nonweb-demo/wiki/Windows).
